@@ -22,3 +22,6 @@ gem 'sinatra'
 # We want to be able to manipulate images to create an animated GIF.
 # @see https://rmagick.github.io/
 gem 'rmagick'
+
+# Due to error or package update specifically requiring this gem
+gem 'puma'
